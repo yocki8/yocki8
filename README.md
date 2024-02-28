@@ -6,7 +6,7 @@
 
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am Yuvraj Malhotra, people call me yocki, a computer science student from [Chandigarh University](https://www.cuchd.in/). I am a tech enthusiast & a software developer. I do web development and sometimes competitive programming. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+I am Yuvraj Malhotra, people call me yocki, computer science student. I am a tech enthusiast & a software developer. I do web development and sometimes competitive programming. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-yuvrajmalhotra7-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuvrajmalhotra7/)](https://www.linkedin.com/in/yuvrajmalhotra7/)
 [![Instagram Badge](https://img.shields.io/badge/-yuvimalhotra0028-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/yuvimalhotra0028/)](https://instagram.com/yuvimalhotra0028)
