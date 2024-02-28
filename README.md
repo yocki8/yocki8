@@ -1,4 +1,5 @@
-![](https://tenor.com/en-IN/view/snoopy-gif-3089652221730405637)
+
+![Snoopy](https://tenor.com/en-IN/view/snoopy-gif-3089652221730405637.gif)
 
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
