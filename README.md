@@ -1,5 +1,8 @@
 
-![Snoopy](https://tenor.com/en-IN/view/snoopy-gif-3089652221730405637.gif)
+<div align="center">
+    <img src="https://tenor.com/en-IN/view/snoopy-gif-3089652221730405637.gif" alt="Your GIF">
+</div>
+
 
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
