@@ -4,6 +4,7 @@
 </div>
 
 
+![Visitor Badge](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyocki8&countColor=%23263759)
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 I am Yuvraj Malhotra, people call me yocki, a computer science student. I am a tech enthusiast & a software developer. I do web development and sometimes competitive programming. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
@@ -37,7 +38,4 @@ I am Yuvraj Malhotra, people call me yocki, a computer science student. I am a t
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=yocki8&count_private=true&show_icons=true&include_all_commits=true)
-
-![Visitor Badge](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyocki8&countColor=%23263759)
+![Yocki's Graph](https://github-readme-activity-graph.vercel.app/graph?username=yocki8&bg_color=2B2B28&color=BDD4BC&line=26A6416F&point=0f0&area=false&hide_border=false)
